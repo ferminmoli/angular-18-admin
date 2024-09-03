@@ -1,10 +1,10 @@
-# Angular 17 Admin Dashboard Starter
+# Angular 18 Admin Dashboard Starter
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
-Welcome to the Angular 17 Admin Dashboard! This project combines the power of Tailwind CSS 3 and Angular 17 to provide a dynamic admin dashboard. It's a work in progress, free to use, contribute, and replicate. Feel free to explore, fork, and make it your own!
+Welcome to the Angular 18 Admin Dashboard! This project combines the power of Tailwind and Angular 18 to provide a dynamic admin dashboard. It's a work in progress, free to use, contribute, and replicate. Feel free to explore, fork, and make it your own!
 
 ## Table of Contents
 
@@ -31,13 +31,13 @@ Ensure your system meets the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ferminmoli/angular-admin.git
+    git clone https://github.com/ferminmoli/angular-18-admin.git
     ```
 
 2. Install dependencies:
 
     ```bash
-    cd angular-admin
+    cd angular-18-admin
     npm install
     ```
 
@@ -49,7 +49,7 @@ Ensure your system meets the following requirements:
 
 ## Showcase
 
-https://angular-admin-phi.vercel.app/pages/sign-up
+https://angular-18-admin.vercel.app/dashboard/sales
 
 ## Scripts
 
