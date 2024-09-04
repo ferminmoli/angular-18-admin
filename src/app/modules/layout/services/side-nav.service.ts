@@ -19,7 +19,9 @@ export class SideNavService implements OnDestroy {
           icon: 'assets/icons/heroicons/outline/chart-bar-square.svg',
           label: 'Dashboard',
           route: '/dashboard',
-          children: [{ label: 'Sales', route: '/dashboard/sales' }],
+          children: [{ label: 'Sales', route: '/dashboard/sales' },
+            { label: 'Countries', route: '/dashboard/countries' }
+          ],
         },
       ],
     },
